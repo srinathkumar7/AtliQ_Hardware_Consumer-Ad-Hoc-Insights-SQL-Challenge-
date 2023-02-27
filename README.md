@@ -1,0 +1,1 @@
+# AtliQ_Hardware_Consumer-Ad-Hoc-Insights-SQL-Challenge-
