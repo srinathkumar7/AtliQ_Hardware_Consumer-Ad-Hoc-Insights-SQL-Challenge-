@@ -1,2 +1,2 @@
-# AtliQ_Hardware_Consumer-Goods-Insights-SQL-Challenge-
--
+AtliQ_Hardware_Consumer-Goods-Insights-SQL-Challenge-
+
